@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 and Welcome to my GitHub page!
+I'm a long-time homebrew games/application dev - Professionally I work on C# applications normally using EntityFramework and interfacing with MS-SQL
+### Past
+- Created the portable C++ game engine, Penjin
+- Lead the development of community built game Pandora Panic! and have it release in time for the launch day of Open Pandora
+- Ported various games to OpenPandora, GP2X and Dingoo, some closed source.
+- Beta tested various emulators and games.
 
-<!--
-**pokeparadox/pokeparadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Present
+- Work full time with C#
+- Potter about with ideas using Godot engine in spare time
+- Also create music using LMMS, Audacity and FamiStudio
 
-Here are some ideas to get you started:
+⚡ Fun facts:
+- I appear as a boss in the game [Two Months](https://store.steampowered.com/app/1513450/TWO_MONTHS/)
+- I appear in the greetings/credits of MiniMenu for the OpenPandora opensource handheld console
+- I have worked on some aspects of GMenu2X used on many homebrew/emulation handhelds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Around the Web
+My [Linktree](https://linktr.ee/pokeparadox) contains my current haunts
+
+### Input Coffee - Output Code
+Here is my [Ko-fi](https://ko-fi.com/pokeparadox) should you wish to support my work
