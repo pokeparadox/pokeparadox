@@ -21,3 +21,5 @@ My [Linktree](https://linktr.ee/pokeparadox) contains my current haunts
 
 ### Input Coffee - Output Code
 Here is my [Ko-fi](https://ko-fi.com/pokeparadox) should you wish to support my work
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y341BLJ)
