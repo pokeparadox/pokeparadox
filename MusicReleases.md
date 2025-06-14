@@ -1,2 +1,2 @@
 # Music Releases
-- [LektroSparc](li.sten.to/lektrosparc)
+- [LektroSparc](Https://li.sten.to/lektrosparc)
