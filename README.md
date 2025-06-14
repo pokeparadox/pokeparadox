@@ -1,5 +1,7 @@
 ## Hi there 👋 and Welcome to my GitHub page!
-I'm a long-time homebrew games/application dev - Professionally I work on C# applications normally using EntityFramework and interfacing with MS-SQL
+I'm a long-time homebrew games/application dev - chiptune and electronic musician 
+- Professionally I work on C# applications normally using EntityFramework and interfacing with MS-SQL
+
 ### Past
 - Created the portable C++ game engine, Penjin
 - Lead the development of community built game Pandora Panic! and have it release in time for the launch day of Open Pandora
