@@ -11,7 +11,13 @@ I'm a long-time homebrew games/application dev - Professionally I work on C# app
 - Potter about with ideas using Godot engine in spare time
 - Also create music using LMMS, Audacity and FamiStudio
 
-⚡ Fun facts:
+### Music
+((Releases))
+
+### Games
+((Releases))
+
+### ⚡ Fun facts:
 - I appear as a boss in the game [Two Months](https://store.steampowered.com/app/1513450/TWO_MONTHS/)
 - I appear in the greetings/credits of MiniMenu for the OpenPandora opensource handheld console
 - I have worked on some aspects of GMenu2X used on many homebrew/emulation handhelds
