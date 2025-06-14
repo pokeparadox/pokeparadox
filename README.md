@@ -12,10 +12,10 @@ I'm a long-time homebrew games/application dev - Professionally I work on C# app
 - Also create music using LMMS, Audacity and FamiStudio
 
 ### Music
-[MusicReleases](Releases)
+[Releases](../MusicReleases.md)
 
 ### Games
-[GamesRelease](Releases)
+[Releases](../GamesReleases.md)
 
 ### ⚡ Fun facts:
 - I appear as a boss in the game [Two Months](https://store.steampowered.com/app/1513450/TWO_MONTHS/)
